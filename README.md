@@ -1,8 +1,8 @@
-# Twitter - Part I
+# Project 3 - *Twitter - Part I*
 
 This is a basic twitter app to read your tweets.
 
-Time spent: 3 hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
