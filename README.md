@@ -1,10 +1,10 @@
 # Twitter
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+This is a basic **Twitter** app to view, compose, favorite, and retweet tweets.
 
 ## User Stories
 
-The following functionality is completed:
+The following functionality is complete:
 
 - [x] User sees app icon in home screen and styled launch screen.
 - [x] User can log in.
@@ -17,6 +17,6 @@ The following functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the implemented user stories:
 
 ![](gif2.gif)
