@@ -15,7 +15,7 @@ The following functionality is complete:
 - [x] User can favorite a tweet.
 - [x] User can retweet a tweet.
 
-## Video Walkthrough
+## App Walkthrough GIF
 
 Here's a walkthrough of the implemented user stories:
 
