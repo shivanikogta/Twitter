@@ -1,6 +1,6 @@
 # Twitter
 
-This is a basic **Twitter** app to view, compose, favorite, and retweet tweets.
+This is a **Twitter** app to view, compose, favorite, and retweet tweets.
 
 ## User Stories
 
